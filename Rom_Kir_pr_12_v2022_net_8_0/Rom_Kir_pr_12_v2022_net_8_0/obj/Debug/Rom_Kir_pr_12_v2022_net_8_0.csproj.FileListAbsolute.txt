@@ -1,0 +1,10 @@
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_12_v2022_net_8_0\Rom_Kir_pr_12_v2022_net_8_0\bin\Debug\Rom_Kir_pr_12_v2022_net_8_0.exe.config
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_12_v2022_net_8_0\Rom_Kir_pr_12_v2022_net_8_0\bin\Debug\Rom_Kir_pr_12_v2022_net_8_0.exe
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_12_v2022_net_8_0\Rom_Kir_pr_12_v2022_net_8_0\bin\Debug\Rom_Kir_pr_12_v2022_net_8_0.pdb
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_12_v2022_net_8_0\Rom_Kir_pr_12_v2022_net_8_0\obj\Debug\Rom_Kir_pr_12_v2022_net_8_0.csproj.AssemblyReference.cache
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_12_v2022_net_8_0\Rom_Kir_pr_12_v2022_net_8_0\obj\Debug\pr_11.SudokuForm.resources
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_12_v2022_net_8_0\Rom_Kir_pr_12_v2022_net_8_0\obj\Debug\Rom_Kir_pr_12_v2022_net_8_0.Properties.Resources.resources
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_12_v2022_net_8_0\Rom_Kir_pr_12_v2022_net_8_0\obj\Debug\Rom_Kir_pr_12_v2022_net_8_0.csproj.GenerateResource.cache
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_12_v2022_net_8_0\Rom_Kir_pr_12_v2022_net_8_0\obj\Debug\Rom_Kir_pr_12_v2022_net_8_0.csproj.CoreCompileInputs.cache
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_12_v2022_net_8_0\Rom_Kir_pr_12_v2022_net_8_0\obj\Debug\Rom_Kir_pr_12_v2022_net_8_0.exe
+C:\Users\cakyr\Desktop\education practice\Rom_Kir_pr_12_v2022_net_8_0\Rom_Kir_pr_12_v2022_net_8_0\obj\Debug\Rom_Kir_pr_12_v2022_net_8_0.pdb
